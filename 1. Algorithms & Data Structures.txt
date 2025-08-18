@@ -1,0 +1,133 @@
+1. Algorithms & Data Structures
+Minimum spanning tree (Kruskal, Prim’s)
+
+Graph shortest paths (Floyd Warshall, Dijkstra, Bellman-Ford)
+
+Time complexity of diameter of binary tree
+
+Preorder/postorder traversal of BST
+
+Arithmetic expression evaluation (min operations)
+
+Maximum number of simple graphs
+
+NFA/ε-transitions and regular expressions (lexical analysis IDs)
+
+Parse trees, ambiguity in CFGs (id + id × id)
+
+Priority queue operations
+
+Heap sort time complexity
+
+Radix sort comparisons
+
+Inorder predecessor in BST
+
+Pointer arithmetic in arrays
+
+Function asymptotic complexity ordering (2^n, n^(3/2), n log n, etc.)
+
+2. Compiler Design & Theory of Computation
+Lexical, syntax, semantic analysis phases in compiler
+
+Parse techniques (LL(1))
+
+Compiler pipeline vs code optimization sequence
+
+DFA/NFA questions (regular expressions accepted, state minimization)
+
+Context-free grammars, ambiguity, derivations
+
+Recursive vs recursively enumerable languages (theory of computability)
+
+Closure properties: regular languages ∩ CFL, unions
+
+3. Computer Networks
+Sliding window protocol, channel utilization
+
+CSMA/CD (frame size, speed)
+
+Protocol layering overhead (5 layers + headers)
+
+802.11 Wi-Fi versions and speeds
+
+Error detecting/correcting codes (parity, CRC, LDPC, Reed-Solomon)
+
+Reverse Polish notation (RPN evaluation)
+
+Vectored interrupts
+
+Channel utilization problems
+
+IPv4/ARP spoofing, NAT, firewall concepts
+
+TCP connections, ingress/egress filtering
+
+Information security and encryption: symmetric vs asymmetric
+
+HDFS characteristics in Big Data
+
+Cassandra (distributed storage)
+
+Cloud computing (private cloud, cloud bursting, virtualization, hypervisor)
+
+Ping of death attack (ICMP, buffer overflow)
+
+4. Operating Systems
+Heap memory allocation: best fit, first fit, next fit
+
+Process scheduling (long-term, medium-term, short-term)
+
+Producer-consumer (bounded buffer) & synchronization: semaphore, mutex, monitors
+
+Priority inheritance protocol (avoid priority inversion)
+
+Paging/memory protection – invalid memory access (trap/page fault)
+
+Multithreading models in Linux (1-1, m-1, m-n)
+
+Interrupt handling, traps (hardware vs software interrupts)
+
+5. Databases
+SQL queries: JOINs (cross join, natural join, outer join)
+
+SQL delete with subqueries
+
+Transactions (ACID — durability)
+
+Normalization (5NF, join dependency)
+
+Query outputs with record insertions (MX, MY problem)
+
+ER model (entity-relationship → static view)
+
+6. Digital Electronics & Computer Architecture
+Logic gates (XOR, XNOR, NAND, NOR)
+
+Encoder/decoder, multiplexer/demultiplexer
+
+Full adder circuit inputs/outputs
+
+Instruction pipeline (FIFO buffer)
+
+Micro-operations vs macro-operations
+
+Determinants of matrices (linear algebra part)
+
+Cyclomatic (McCabe) complexity formula
+
+7. Artificial Intelligence / Machine Learning
+First-order logic connectives (∧, ∨, ¬ vs <> )
+
+Bayesian networks (hybrid - discrete + continuous)
+
+K-means algorithm → Partitional clustering
+
+CAPTCHA & automated attack prevention
+
+8. Software Engineering
+Regression testing focus (validating software changes)
+
+MCDC testing (Modified Condition/Decision Coverage)
+
+HIPO charts (Hierarchy plus Input-Process-Output)
